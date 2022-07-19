@@ -1,0 +1,61 @@
+.contact-box {
+    border: 1px solid;
+    border-color: rgba(100, 56, 14, 0.61);
+    font-size: 15px;
+}
+
+.contact-bg {
+    opacity: 0.30;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+}
+
+.contact-content {
+    position: relative;
+    height: 100px;
+}
+
+.contact-content2 {
+    position: relative;
+    height: 750px;
+}
+
+.contactsection-box {
+    border: 5px solid;
+    border-color: rgba(100, 56, 14, 0.308);
+    font-size: 18px;
+}
+
+.portfolio-font-footer {
+    font-family: 'Londrina Outline', cursive;
+    font-size: 150px;
+    color: rgba(27, 72, 194, 0.25);
+}
+
+.portfolio-font2-footer {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+    color: rgb(59, 60, 65);
+}
+
+
+.parentclass-footer {
+    height: 100px;
+    z-index: +1;
+}
+
+.firstchild-footer {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: +1;
+}
+
+.childclass-footer {
+    position: absolute;
+    height: 80px;
+    z-index: +1;
+}
