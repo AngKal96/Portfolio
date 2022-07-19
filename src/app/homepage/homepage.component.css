@@ -1,0 +1,7 @@
+img {
+    width: 100%;
+}
+
+.border-shadow {
+    box-shadow: 3px 3px 10px 10px rgba(128, 127, 127, 0.466);
+}
